@@ -58,7 +58,7 @@ npm start
 
 ## Live Demo
 
-Check out the live demo of the project at .
+Check out the live demo of the project at https://saranshkhandelwal977.github.io/Random-Gif-Generator/.
 
 
 ## Dependencies
